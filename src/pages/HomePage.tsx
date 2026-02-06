@@ -151,16 +151,16 @@ export default function HomePage() {
               <SectionHeader
                 badge="About EcoAsh Bricks"
                 title="Leading Fly Ash Brick Manufacturer in India"
-                description="With over 15 years of experience, we are committed to providing high-quality, eco-friendly construction materials that meet the demands of modern building requirements."
+                description="We are committed to providing high-quality, eco-friendly construction materials that meet the demands of modern building requirements."
                 align="left"
               />
               
               <ul className="mt-8 space-y-4">
                 {[
                   "ISO 9001:2015 Certified Manufacturing",
-                  "50,000+ Bricks Daily Production Capacity",
+                  "5000+ Bricks Daily Production Capacity",
                   "Pan-India Delivery Network",
-                  "Trusted by 500+ Builders & Contractors",
+                  "Trusted by 50+ Builders & Contractors",
                 ].map((item) => (
                   <li key={item} className="flex items-center gap-3">
                     <CheckCircle className="h-5 w-5 text-primary flex-shrink-0" />

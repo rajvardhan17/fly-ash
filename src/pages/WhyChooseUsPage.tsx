@@ -133,11 +133,11 @@ export default function WhyChooseUsPage() {
               <div className="text-muted-foreground">Years of Experience</div>
             </div>*/}
             <div className="p-8">
-              <div className="font-heading text-5xl font-bold text-primary mb-2">5+</div>
+              <div className="font-heading text-5xl font-bold text-primary mb-2">50+</div>
               <div className="text-muted-foreground">Happy Clients</div>
             </div>
             <div className="p-8">
-              <div className="font-heading text-5xl font-bold text-primary mb-2">2K+</div>
+              <div className="font-heading text-5xl font-bold text-primary mb-2">5000+</div>
               <div className="text-muted-foreground">Daily Production</div>
             </div>
             <div className="p-8">

@@ -4,7 +4,7 @@ import bricksImage from "@/assets/fly-ash-bricks.jpg";
 import heroFactory from "@/assets/hero-factory.jpg";
 
 const stats = [
-  { value: "5+", label: "Happy Clients" },
+  { value: "50+", label: "Happy Clients" },
   { value: "5000+", label: "Daily Capacity" },
   { value: "10+", label: "Projects" },
 ];
@@ -82,7 +82,7 @@ export default function AboutPage() {
                   innovation, unwavering commitment to quality, and a deep respect for the environment.
                 </p>
                 <p>
-                  Today, we serve over 500 clients including major builders, contractors, and 
+                  Today, we serve over 50 clients including major builders, contractors, and 
                   government agencies across India. Our state-of-the-art facility produces over 
                   5000 bricks daily, meeting the growing demand for sustainable construction materials.
                 </p>
