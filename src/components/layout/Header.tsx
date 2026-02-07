@@ -26,11 +26,11 @@ export function Header() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
             <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-primary">
-              <span className="font-heading text-xl font-bold text-primary-foreground">EA</span>
+              <span className="font-heading text-xl font-bold text-primary-foreground">JBM</span>
             </div>
             <div className="hidden sm:block">
               <h1 className="font-heading text-lg font-bold text-foreground leading-tight">
-                EcoAsh Bricks
+                Jayraj Building Materials
               </h1>
               <p className="text-xs text-muted-foreground">Pvt. Ltd.</p>
             </div>
@@ -57,13 +57,13 @@ export function Header() {
           {/* CTA Buttons */}
           <div className="hidden md:flex items-center gap-3">
             <Button variant="whatsapp" size="sm" asChild>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919009872338" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="h-4 w-4" />
                 WhatsApp
               </a>
             </Button>
             <Button variant="default" size="sm" asChild>
-              <a href="tel:+919876543210">
+              <a href="tel:+919009872338">
                 <Phone className="h-4 w-4" />
                 Call Now
               </a>
@@ -105,13 +105,13 @@ export function Header() {
               ))}
               <div className="flex gap-3 mt-4 px-4">
                 <Button variant="whatsapp" size="sm" className="flex-1" asChild>
-                  <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/919009872338" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="h-4 w-4" />
                     WhatsApp
                   </a>
                 </Button>
                 <Button variant="default" size="sm" className="flex-1" asChild>
-                  <a href="tel:+919876543210">
+                  <a href="tel:+919009872338">
                     <Phone className="h-4 w-4" />
                     Call Now
                   </a>

@@ -36,11 +36,11 @@ export function Footer() {
           <div className="lg:col-span-1">
             <Link to="/" className="flex items-center gap-3 mb-6">
               <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-sidebar-primary">
-                <span className="font-heading text-xl font-bold text-sidebar-primary-foreground">EA</span>
+                <span className="font-heading text-xl font-bold text-sidebar-primary-foreground">JBM</span>
               </div>
               <div>
                 <h2 className="font-heading text-lg font-bold text-sidebar-foreground">
-                  EcoAsh Bricks
+                  Jayraj Building Materials
                 </h2>
                 <p className="text-xs text-sidebar-foreground/70">Pvt. Ltd.</p>
               </div>
@@ -115,14 +115,14 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-sidebar-primary flex-shrink-0 mt-0.5" />
                 <span className="text-sm text-sidebar-foreground/80">
-                  Industrial Area, Phase II,<br />
-                  New Delhi - 110020, India
+                  Village Bistan, Khargone,<br />
+                  Madhya Pradesh  - 451441, India
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-sidebar-primary flex-shrink-0" />
-                <a href="tel:+919876543210" className="text-sm text-sidebar-foreground/80 hover:text-sidebar-primary">
-                  +91 98765 43210
+                <a href="tel:+919009872338" className="text-sm text-sidebar-foreground/80 hover:text-sidebar-primary">
+                  +91 90098 72338
                 </a>
               </li>
               <li className="flex items-center gap-3">
@@ -133,7 +133,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <MessageCircle className="h-5 w-5 text-sidebar-primary flex-shrink-0" />
-                <a href="https://wa.me/919876543210" className="text-sm text-sidebar-foreground/80 hover:text-sidebar-primary">
+                <a href="https://wa.me/919009872338" className="text-sm text-sidebar-foreground/80 hover:text-sidebar-primary">
                   WhatsApp Chat
                 </a>
               </li>
@@ -145,7 +145,7 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-sidebar-border">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-sidebar-foreground/60">
-              © 2024 EcoAsh Bricks Pvt. Ltd. All rights reserved.
+              © 2026 Jayraj Building Materials Pvt. Ltd. All rights reserved.
             </p>
             <div className="flex gap-6">
               <Link to="/privacy" className="text-sm text-sidebar-foreground/60 hover:text-sidebar-primary">
