@@ -62,7 +62,7 @@ export default function AdminLoginPage() {
     <div className="min-h-screen flex items-center justify-center bg-sidebar p-4">
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
-          <img src="../../../public/favicon.png" alt="EcoAsh Bricks Logo" className="h-8 w-8" />
+          <img src="../public/favicon.png" alt="EcoAsh Bricks Logo" className="flex h-16 w-16 items-center justify-center rounded-xl bg-primary mx-auto mb-4" />
           <CardTitle className="font-heading text-2xl">Admin Login</CardTitle>
           <CardDescription>
             Sign in to access the admin dashboard
