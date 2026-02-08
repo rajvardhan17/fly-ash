@@ -26,7 +26,7 @@ export function Header() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
             <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-primary">
-              <span className="font-heading text-xl font-bold text-primary-foreground">JBM</span>
+              <img src="../../../public/favicon.png" alt="Jayraj Building Materials Logo" className="h-6 w-6" />
             </div>
             <div className="hidden sm:block">
               <h1 className="font-heading text-lg font-bold text-foreground leading-tight">
