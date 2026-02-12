@@ -107,7 +107,7 @@ export default function ManufacturingPage() {
                 State-of-the-Art Facility
               </h3>
               <p className="text-primary-foreground/80">
-                50,000+ bricks daily production capacity
+                5000+ bricks daily production capacity
               </p>
             </div>
           </div>
