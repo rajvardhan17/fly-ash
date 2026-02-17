@@ -1,123 +1,91 @@
-🏗️ Jayraj Building Materials
-Project Info
+# 🏗️ Jayraj Building Materials
 
-Live URL: https://jayraj-building-materials.vercel.app/
+## 🌐 Live Website
 
-This project represents the official website for Jayraj Building Materials, a trusted supplier of quality construction materials for residential, commercial, and infrastructure projects.
+**Production URL:**  
+https://jayraj-building-materials.vercel.app/
 
-How can I edit this code?
+Jayraj Building Materials is the official digital platform representing a trusted supplier of high-quality construction and building materials for residential, commercial, and infrastructure projects.
 
-There are multiple ways to edit and manage this application.
+This website is designed to provide a professional online presence, showcase product categories, and enable seamless communication with customers and business partners.
 
-Use Your Preferred IDE (Recommended)
+---
 
-You can work locally and push updates to GitHub. Changes will automatically redeploy on Vercel.
+# 📌 Project Overview
 
-The only requirement is having Node.js & npm installed
-(Recommended: Install using nvm)
+The Jayraj Building Materials website is a modern, responsive web application built using a scalable frontend architecture.
 
-Follow these steps:
+The platform aims to:
 
+- Establish a strong digital brand presence  
+- Display product categories clearly and professionally  
+- Provide easy contact access for inquiries and bulk orders  
+- Ensure fast loading performance across all devices  
+- Maintain a clean and maintainable code structure  
+
+The project is optimized for performance, scalability, and long-term maintainability.
+
+---
+
+# 🧱 Business Overview
+
+Jayraj Building Materials supplies essential construction materials, including:
+
+- Cement  
+- TMT Bars (Steel Reinforcement)  
+- Fly Ash Bricks  
+- Sand & Aggregates  
+- General Construction Supplies  
+
+### Our Core Values
+
+- Product Quality Assurance  
+- Competitive Pricing  
+- Reliable and Timely Supply  
+- Long-Term Customer Relationships  
+- Professional Service Standards  
+
+We serve contractors, builders, developers, and infrastructure projects.
+
+---
+
+# 🚀 Technology Stack
+
+This project is built using modern and industry-standard frontend technologies:
+
+- **Vite** – High-performance build tool  
+- **TypeScript** – Strong typing for scalability and maintainability  
+- **React** – Component-based UI development  
+- **shadcn-ui** – Accessible and customizable UI components  
+- **Tailwind CSS** – Utility-first styling framework  
+- **Vercel** – Cloud deployment and hosting platform  
+
+---
+
+# 💻 Local Development Setup
+
+To run this project locally, ensure you have Node.js and npm installed.  
+(Recommended: Install Node.js using nvm for version management.)
+
+## Installation Steps
+
+```bash
 # Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install dependencies
+# Step 3: Install project dependencies
 npm install
 
-# Step 4: Start development server
+# Step 4: Start the development server
 npm run dev
-
-Edit Directly in GitHub
-
-Navigate to the required file(s)
-
-Click the "Edit" (✏️) button
-
-Make your changes
-
-Commit the updates
-
-Vercel will automatically redeploy the project after changes are pushed.
-
-Use GitHub Codespaces
-
-Open your repository main page
-
-Click on the Code button
-
-Select the Codespaces tab
-
-Click New Codespace
-
-Edit and push changes directly from the browser
-
-What technologies are used in this project?
-
-This project is built with modern frontend technologies:
-
-Vite – Fast build tool
-
-TypeScript – Type safety & scalability
-
-React – Component-based UI
-
-shadcn-ui – Accessible UI components
-
-Tailwind CSS – Utility-first styling
-
-Vercel – Deployment & hosting platform
-
-How is this project deployed?
-
-This website is deployed using Vercel.
-
-Deployment Process:
-
-Push changes to GitHub
-
-Vercel automatically builds the project
-
-The updated version goes live instantly
-
-Benefits:
-
-Automatic CI/CD
-
-Global CDN
-
-Free SSL certificate
-
-High performance hosting
-
-Can I connect a custom domain?
-
-Yes.
-
-To connect a custom domain:
-
-Open your project in Vercel Dashboard
-
-Go to Settings → Domains
-
-Click Add Domain
-
-Follow the DNS configuration instructions
-
-Business Overview
-
-Jayraj Building Materials provides:
-
-Cement
-
-TMT Bars
-
-Fly Ash Bricks
-
-Sand & Aggregates
-
-Construction Supplies
-
-We focus on reliability, quality assurance, and long-term customer relationships.
+```
+# Project Structure
+src/
+ ├── components/      # Reusable UI components
+ ├── pages/           # Page-level components
+ ├── assets/          # Images and static files
+ ├── styles/          # Global styling
+ └── main.tsx         # Application entry point
