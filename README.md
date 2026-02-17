@@ -83,9 +83,11 @@ npm install
 npm run dev
 ```
 # Project Structure
+```
 src/
  ├── components/      # Reusable UI components
  ├── pages/           # Page-level components
  ├── assets/          # Images and static files
  ├── styles/          # Global styling
  └── main.tsx         # Application entry point
+```
